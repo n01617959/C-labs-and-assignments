@@ -1,0 +1,37 @@
+D:\sem-2_ITE\csharp\Winforms.Inventory\Winforms.Inventory\bin\Debug\grocery_inventory_items.txt
+D:\sem-2_ITE\csharp\Winforms.Inventory\Winforms.Inventory\bin\Debug\Winforms.Inventory.exe.config
+D:\sem-2_ITE\csharp\Winforms.Inventory\Winforms.Inventory\bin\Debug\Winforms.Inventory.exe
+D:\sem-2_ITE\csharp\Winforms.Inventory\Winforms.Inventory\bin\Debug\Winforms.Inventory.pdb
+D:\sem-2_ITE\csharp\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.csproj.AssemblyReference.cache
+D:\sem-2_ITE\csharp\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.Properties.Resources.resources
+D:\sem-2_ITE\csharp\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.UI.InventoryForm.resources
+D:\sem-2_ITE\csharp\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.UI.New_Inventory_Item.resources
+D:\sem-2_ITE\csharp\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.csproj.GenerateResource.cache
+D:\sem-2_ITE\csharp\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.csproj.CoreCompileInputs.cache
+D:\sem-2_ITE\csharp\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.exe
+D:\sem-2_ITE\csharp\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.pdb
+C:\Users\user\Videos\Ahmed Stuff\Winforms.Inventory\Winforms.Inventory\Winforms.Inventory\bin\Debug\grocery_inventory_items.txt
+C:\Users\user\Videos\Ahmed Stuff\Winforms.Inventory\Winforms.Inventory\Winforms.Inventory\bin\Debug\Winforms.Inventory.exe.config
+C:\Users\user\Videos\Ahmed Stuff\Winforms.Inventory\Winforms.Inventory\Winforms.Inventory\bin\Debug\Winforms.Inventory.exe
+C:\Users\user\Videos\Ahmed Stuff\Winforms.Inventory\Winforms.Inventory\Winforms.Inventory\bin\Debug\Winforms.Inventory.pdb
+C:\Users\user\Videos\Ahmed Stuff\Winforms.Inventory\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.csproj.AssemblyReference.cache
+C:\Users\user\Videos\Ahmed Stuff\Winforms.Inventory\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Videos\Ahmed Stuff\Winforms.Inventory\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.Properties.Resources.resources
+C:\Users\user\Videos\Ahmed Stuff\Winforms.Inventory\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.UI.InventoryForm.resources
+C:\Users\user\Videos\Ahmed Stuff\Winforms.Inventory\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.csproj.GenerateResource.cache
+C:\Users\user\Videos\Ahmed Stuff\Winforms.Inventory\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.csproj.CoreCompileInputs.cache
+C:\Users\user\Videos\Ahmed Stuff\Winforms.Inventory\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.exe
+C:\Users\user\Videos\Ahmed Stuff\Winforms.Inventory\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.pdb
+C:\Users\user\Videos\Ahmed Stuff\Winforms.Inventory\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.AddItemsForm.resources
+C:\Users\ahmed\Downloads\Winforms.Inventory\Winforms.Inventory\Winforms.Inventory\bin\Debug\grocery_inventory_items.txt
+C:\Users\ahmed\Downloads\Winforms.Inventory\Winforms.Inventory\Winforms.Inventory\bin\Debug\Winforms.Inventory.exe.config
+C:\Users\ahmed\Downloads\Winforms.Inventory\Winforms.Inventory\Winforms.Inventory\bin\Debug\Winforms.Inventory.exe
+C:\Users\ahmed\Downloads\Winforms.Inventory\Winforms.Inventory\Winforms.Inventory\bin\Debug\Winforms.Inventory.pdb
+C:\Users\ahmed\Downloads\Winforms.Inventory\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.csproj.AssemblyReference.cache
+C:\Users\ahmed\Downloads\Winforms.Inventory\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.Properties.Resources.resources
+C:\Users\ahmed\Downloads\Winforms.Inventory\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.AddItemsForm.resources
+C:\Users\ahmed\Downloads\Winforms.Inventory\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.UI.InventoryForm.resources
+C:\Users\ahmed\Downloads\Winforms.Inventory\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.csproj.GenerateResource.cache
+C:\Users\ahmed\Downloads\Winforms.Inventory\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Downloads\Winforms.Inventory\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.exe
+C:\Users\ahmed\Downloads\Winforms.Inventory\Winforms.Inventory\Winforms.Inventory\obj\Debug\Winforms.Inventory.pdb
