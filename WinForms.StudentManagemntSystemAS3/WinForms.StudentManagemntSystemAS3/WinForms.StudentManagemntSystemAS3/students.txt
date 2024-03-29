@@ -1,0 +1,10 @@
+1,Scarlet,Johannson,30,female,English,90
+2,Conor,McGregor,40,male,Math,95
+3,Gal,Gadot,32,female,Java,90
+4,Pablo,Escobar,50,male,Python,85
+5,Elizabeth,Olsen,18,female,Physics,75
+6,Mike,Tyson,45,male,French,90
+7,Greta,Thunder,22,female,C#,69
+8,jamie,Foxx,45,male,Robotics,82
+9,Robert,Downey,38,male,Engineering,65
+10,Thomas,Shelby,36,male,Politics,98
